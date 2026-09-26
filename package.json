@@ -5,7 +5,5 @@
   "scripts": {
     "start": "node index.js"
   },
-  "dependencies": {
-    "viaproxy": "^3.4.4"
-  }
+  "dependencies": {}
 }
